@@ -1,7 +1,7 @@
 package main
 
 import (
-	"oops-go/Classes/entity"
+	"oops-go/classes/entity"
 )
 
 func main() {
